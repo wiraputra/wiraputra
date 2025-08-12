@@ -70,7 +70,7 @@
 
 <p align="center">
   <!-- Grafik Metrics yang canggih menggantikan grafik ular -->
-  <img src="https://metrics.lecoq.io/wiraputra?template=classic&config_timezone=Asia%2FJakarta&theme=tokyonight&plugins=isocalendar,languages,activity,community&isocalendar.duration=full-year&languages.limit=8&activity.limit=5&activity.days=14" alt="GitHub Metrics" />
+  <img src="https://metrics.lecoq.io/wiraputra?theme=tokyonight" alt="GitHub Metrics" />
 </p>
 
 
