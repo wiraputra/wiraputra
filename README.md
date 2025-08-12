@@ -1,8 +1,3 @@
-<!-- 
-  Halo Wirawan! Ini adalah README yang telah didesain ulang sepenuhnya.
-  Silakan sesuaikan bagian-bagian yang ditandai dengan [TANDA_KURUNG].
-  Selamat mencoba!
--->
 
 <!-- 1. BANNER -->
 <p align="center">
@@ -61,7 +56,7 @@
 
 <p align="center">
   <!-- GitHub Stats (per baris) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wiraputra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Wirawan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wiraputra&show_icons=true&theme=tokyonight" alt="Wirawan's GitHub Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiraputra&layout=compact&langs_count=8&theme=tokyonight" alt="Wirawan's Top Languages" />
   <br><br>
