@@ -83,6 +83,4 @@
 
 ### 🏆 My Pinned Projects
 
-Gunakan fitur **"Pinned Repositories"** pada profil GitHub Anda untuk menampilkan proyek-proyek terbaik Anda secara otomatis. Ini adalah cara paling mudah dan efektif!
-
 
